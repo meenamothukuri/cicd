@@ -1,1 +1,0 @@
-sudo gitlab-runner register --url https://gitlab.com/ --registration-token GR1348941aa7VftYhV9Srj5PCHq6k
