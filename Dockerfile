@@ -8,4 +8,6 @@ while true; do
 done
 EOF
 
+LABEL test=testing
+
 ENTRYPOINT /app/run.sh
